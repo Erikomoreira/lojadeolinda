@@ -1,6 +1,5 @@
-# lojadeolinda
-Projeto git
+# E-Commerce lojadeolinda
 
-Feito por Paulo, Lucas, Beatriz, Erik e Marcos
+Feito por Paulo, Lucas, Beatriz, Erik e Marcos.
 
-O objetivo deste projeto é aprender os conceitos de apis REST utilizando o Java Spring, com isso os conceitos de um front end
+O objetivo deste projeto foi aprender os conceitos de APIS REST utilizando Spring e React.
